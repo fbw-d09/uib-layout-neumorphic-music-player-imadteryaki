@@ -20,7 +20,7 @@ body {
   box-shadow: 9px 9px 27px #afafaf, -9px -9px 27px #ffffff;
 }
 h2{
-    font-weight: 900;
+    font-weight: 800;
 }
 header,.controls {
   display: flex;
