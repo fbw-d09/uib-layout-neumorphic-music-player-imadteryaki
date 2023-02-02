@@ -19,6 +19,9 @@ body {
   background: #e0e0e0;
   box-shadow: 9px 9px 27px #afafaf, -9px -9px 27px #ffffff;
 }
+h2{
+    font-weight: 900;
+}
 header,.controls {
   display: flex;
   justify-content: space-around;
@@ -50,6 +53,13 @@ header,.controls {
   background: #e0e0e0;
   box-shadow:  -6px 6px 12px #bababa,
              6px -6px 12px #ffffff;
+}
+p{
+    font-weight: 400;
+}
+h3{
+    font-weight: 700;
+    color: #8f8f8f;
 }
 section {
   display: flex;
